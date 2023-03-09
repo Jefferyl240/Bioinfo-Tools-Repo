@@ -4,8 +4,7 @@
 #The dna file should only contain the letters a,c,g,t
 #Usage: $0 <dnafile>
 #Author: Jie Lin
-#Date: 11/21/2021
-#CSCI 132 Project Option 2
+#Date: 10/21/2021
 ######################################################################################################
 import sys, re
 #checking the number of arguments.
