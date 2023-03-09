@@ -4,7 +4,6 @@
 #Usage: $0 <dnafile>
 #Author: Jie Lin
 #Date: 12/2/2021
-#CSCI 132 Project Option 4
 ###############################################################################################################################
 import sys, re, os
 #checking the number of arguments.
