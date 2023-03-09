@@ -4,8 +4,7 @@
 #Also, this program report the total number of times the pattern is repeated in this fashion.
 #Usage: ./$0 <desired codon> <desired position> <dnafile>
 #Author: Jie Lin
-#First build on: 11/6/2021
-#CSCI 132 Project Option 1
+#First build on: 2/6/2022
 
 import sys #sys package for access line argument.
 import re #re package for regular expression operations.
