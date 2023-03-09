@@ -4,8 +4,8 @@
 #input csvfile from health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e
 #Usage: $0 <datafile in csv>
 #Author: Jie Lin
-#Date: 11/26/2021
-#Project Option 3
+#Date: 4/26/2022
+
 ###############################################################################
 import os #os lib for accessing the operating system.
 import sys #sys package to access line arguments.
